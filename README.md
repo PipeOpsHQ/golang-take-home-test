@@ -1,4 +1,4 @@
-# Go Pipeline Operations Take-Home Test (1-Day Version)
+# Go Pipeline Operations Take-Home Test
 
 ## Overview
 
